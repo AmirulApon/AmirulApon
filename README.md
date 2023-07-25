@@ -21,7 +21,8 @@ Skills:  REACT / JS / HTML / CSS / PHP / WORDPRESS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirulApon&show_icons=true)  
 
-
+  ## Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Habibur-Rahman0927?ext=heatmap&animation=true)](https://leetcode.com/APON11/)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AmirulApon)  
 
