@@ -1,4 +1,4 @@
-![I am Junior Software Enginner](https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/46513834_1302594969880312_2452598996586201088_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEvmFyuWYnP73D0pqceOdA-xg2cFZWLA4nGDZwVlYsDiQKU7MrVsRrpF_FhcvF1YGqjKUxIygC_hyx0n9ll-2r5&_nc_ohc=aXq2yErKDNUAX_N5wKY&_nc_ht=scontent.fdac135-1.fna&oh=00_AfDf7eAS813K0QY9ju67G_3xnHR47oLFHKsdhq55UGWqFg&oe=64783DA5)
+![I am a Software Enginner]
 
 ### Hi there 👋, my name is Amirul Apon
 #### I am a Software Enginner
